@@ -111,7 +111,7 @@ ol {
     color: rgb(255, 255, 255);
 }
 a {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
     transition: all 700ms;
 }
 a,
@@ -387,7 +387,7 @@ thead th {
     content: "";
     width: 75%;
     height: 2px;
-    background: rgb(233, 102, 86);
+    background: #2196f3;
     bottom: -9px;
     left: 12.5%;
 }
@@ -409,7 +409,7 @@ input[type="submit"] {
     border-radius: 4px;
     margin: 10px;
     border: none;
-    background-color: rgb(233, 102, 86);
+    background-color: #2196f3;
     box-shadow: none;
     text-shadow: none;
     font-weight: 400;
@@ -483,7 +483,7 @@ textarea:active,
 input:active,
 textarea:focus,
 input:focus {
-    outline-color: rgb(233, 102, 86) !important;
+    outline-color: #2196f3 !important;
     box-shadow: none !important;
 }
 input:focus,
@@ -492,10 +492,10 @@ textarea:focus {
     outline: 0px;
 }
 a {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
 }
 a:visited {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
 }
 a:hover,
 a:focus,
@@ -702,7 +702,7 @@ object {
 }
 .navbar-inverse .navbar-nav ul.sub-menu li:hover > a,
 .navbar-inverse .navbar-nav ul.sub-menu li.link-focus > a {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
 }
 .navbar-inverse ul ul {
     left: -999em;
@@ -734,7 +734,7 @@ object {
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a.link-focus {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
     outline: none;
 }
 .navbar-toggle {
@@ -747,7 +747,7 @@ object {
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-    background-color: rgb(233, 102, 86);
+    background-color: #2196f3;
     opacity: 1;
     box-shadow: none;
 }
@@ -768,10 +768,10 @@ object {
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
 }
 .navbar-inverse .navbar-nav > li.current > a {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
     position: relative;
     outline: none;
 }
@@ -787,7 +787,7 @@ ul.nav > li.current-menu-item > a::before {
     content: "";
     width: 75%;
     height: 2px;
-    background: rgb(233, 102, 86);
+    background: #2196f3;
     bottom: 0px;
     left: 12.5%;
     display: block;
@@ -803,7 +803,7 @@ ul.nav > li.current_page_item.current > a::before {
     content: "";
     width: 75%;
     height: 2px;
-    background: rgb(233, 102, 86);
+    background: #2196f3;
     bottom: 0px;
     left: 12.5%;
     display: block;
@@ -846,7 +846,7 @@ ul.nav > li.current_page_item.current > a::before {
     transition: all 0.2s ease-in-out;
 }
 .focus-box:nth-child(4n+1) .service-icon:hover {
-    border: 10px solid rgb(233, 102, 86);
+    border: 10px solid #2196f3;
 }
 .focus-box:nth-child(4n+2) .service-icon:hover {
     border: 10px solid rgb(52, 210, 147);
@@ -858,7 +858,7 @@ ul.nav > li.current_page_item.current > a::before {
     border: 10px solid rgb(247, 216, 97);
 }
 .focus-box:nth-child(4n+1) .red-border-bottom::before {
-    background: rgb(233, 102, 86);
+    background: #2196f3;
 }
 .focus-box:nth-child(4n+2) .red-border-bottom::before {
     background: rgb(52, 210, 147);
@@ -1028,10 +1028,10 @@ ul.nav > li.current_page_item.current > a::before {
     color: rgb(128, 128, 128);
 }
 .team-member .social-icons ul li a:hover {
-    color: rgb(233, 102, 86);
+    color: #2196f3;
 }
 .our-team .row > div:nth-child(4n+1) .red-border-bottom::before {
-    background: rgb(233, 102, 86);
+    background: #2196f3;
 }
 .our-team .row > div:nth-child(4n+2) .red-border-bottom::before {
     background: rgb(52, 210, 147);
@@ -1130,7 +1130,7 @@ article {
 .woocommerce input.button.alt,
 .woocommerce-page #content input.button.alt,
 .woocommerce-page input.button.alt {
-    background: rgb(233, 102, 86);
+    background: #2196f3;
     display: inline-block;
     text-align: center;
     text-transform: uppercase;
@@ -1180,7 +1180,7 @@ article {
 .woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
 .woocommerce nav.woocommerce-pagination ul li a:hover,
 .woocommerce #content nav.woocommerce-pagination ul li a:hover {
-    background: rgb(233, 102, 86);
+    background: #2196f3;
     color: rgb(255, 255, 255);
 }
 body.custom-background {
