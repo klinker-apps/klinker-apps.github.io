@@ -285,10 +285,10 @@ h6 {
     display: inline-block !important;
 }
 .red-btn {
-    background: rgb(233, 102, 86);
+    background: #3f4b54;
 }
 .green-btn {
-    background: rgb(30, 158, 107);
+    background: #2196f3;
 }
 .red-btn,
 .green-btn,
@@ -299,11 +299,11 @@ h6 {
 }
 .red-btn:hover {
     color: rgb(255, 255, 255);
-    background: rgb(203, 67, 50);
+    background: #374149;
 }
 .green-btn:hover {
     color: rgb(255, 255, 255);
-    background: rgb(6, 144, 89);
+    background: #0b7dda;
 }
 .btn:hover {
     box-shadow: none;
